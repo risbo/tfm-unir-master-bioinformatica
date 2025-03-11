@@ -26,7 +26,7 @@ Además, se ha desarrollado una plataforma web (Binary DNA) que centraliza las b
 - Conexión a Internet para la instalación de paquetes
 
 ### Instalación de Dependencias
-El script inicia verificando la existencia de las librerías necesarias y las instala si es necesario. Para ejecutar el código, simplemente abre el archivo `analysis.R` (o el nombre que le hayas asignado) en R o RStudio y ejecútalo línea por línea o en conjunto.
+El script inicia verificando la existencia de las librerías necesarias y las instala si es necesario. Para ejecutar el código, simplemente abre el archivo `r-script/tfm_analisis_bioinformatico.r` (o el nombre que le hayas asignado) en R o RStudio y ejecútalo línea por línea o en conjunto.
 
 ### Ejecución
 1. Clona el repositorio:
